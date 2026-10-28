@@ -1,0 +1,6 @@
+__pycache__/
+tasks.json
+temCodeRunnerFile.py
+*.log
+.env
+.vscode/
