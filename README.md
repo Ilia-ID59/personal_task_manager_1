@@ -58,4 +58,4 @@ python main.py
 ![personal_task_manager_screenshot](images/image_1.jpg) 
 
 ## Demo 
-![personal_task_manager_demo](images/Animation.gif) 
+![personal_task_manager_demo](images/animation.gif) 
