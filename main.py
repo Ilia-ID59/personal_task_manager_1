@@ -30,5 +30,6 @@ for i in range(count):
     tasks.append(task)
 
 show_tasks(tasks)    
+print("total task :", len(tasks))
 save_tasks(tasks)
 
